@@ -1,7 +1,7 @@
 # YouTubeRacoon
 a video downloading program with GUI in Kivy
 
-program uses the pytube library 
+program uses the pytube library,
 for the GUI kivy is used
 
 currently need to fix:
